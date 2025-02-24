@@ -1,0 +1,128 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-02-22 16:44+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/handler/action_handler.py:36
+msgid "🎬 Batman"
+msgstr ""
+
+#: bot/handler/action_handler.py:36
+msgid "🎬 Penguin"
+msgstr ""
+
+#: bot/handler/action_handler.py:36 bot/handler/comedy_handler.py:12
+#: bot/handler/drama_handler.py:12 bot/handler/main_handler.py:32
+msgid "⬅️ Back"
+msgstr ""
+
+#: bot/handler/action_handler.py:39
+msgid ""
+"🎬 Action: \n"
+"BW"
+msgstr ""
+
+#: bot/handler/comedy_handler.py:12
+msgid "🎬 The Mask"
+msgstr ""
+
+#: bot/handler/comedy_handler.py:12
+msgid "🎬 Home Alone"
+msgstr ""
+
+#: bot/handler/comedy_handler.py:15
+msgid ""
+"😂 Comedy : \n"
+"BW"
+msgstr ""
+
+#: bot/handler/drama_handler.py:12
+msgid "🎬 Forrest Gump"
+msgstr ""
+
+#: bot/handler/drama_handler.py:12
+msgid "🎬 Titanic"
+msgstr ""
+
+#: bot/handler/main_handler.py:19 bot/handler/main_handler.py:66
+msgid "🎥 Movies Section"
+msgstr ""
+
+#: bot/handler/main_handler.py:20 bot/handler/main_handler.py:67
+msgid "📞 Contact center"
+msgstr ""
+
+#: bot/handler/main_handler.py:21 bot/handler/main_handler.py:68
+msgid "🇺🇿🇬🇧🇷🇺 Language"
+msgstr ""
+
+#: bot/handler/main_handler.py:23
+msgid ""
+"🏠 Main menu: \n"
+"BW"
+msgstr ""
+
+#: bot/handler/main_handler.py:29
+msgid "🎭 Drama"
+msgstr ""
+
+#: bot/handler/main_handler.py:30
+msgid "😂 Comedy"
+msgstr ""
+
+#: bot/handler/main_handler.py:31
+msgid "🎬 Action"
+msgstr ""
+
+#: bot/handler/main_handler.py:35
+msgid ""
+"🎥 Movies section: \n"
+"BW"
+msgstr ""
+
+#: bot/handler/main_handler.py:41
+msgid "🇺🇿 Uzbek"
+msgstr ""
+
+#: bot/handler/main_handler.py:41
+msgid "🇬🇧 English"
+msgstr ""
+
+#: bot/handler/main_handler.py:41
+msgid "🇷🇺 Russia"
+msgstr ""
+
+#: bot/handler/main_handler.py:41
+msgid "⬅️  Back"
+msgstr ""
+
+#: bot/handler/main_handler.py:44
+msgid ""
+"Choose language: \n"
+"BW"
+msgstr ""
+
+#: bot/handler/main_handler.py:58
+msgid "Error!"
+msgstr ""
+
+#: bot/handler/main_handler.py:71
+msgid ""
+"🏠 Main menu : \n"
+"BW"
+msgstr ""
+
