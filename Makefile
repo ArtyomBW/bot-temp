@@ -13,3 +13,11 @@ update:
 	  pybabel update -d locales -D messages -i locales/messages.pot
 
 
+commit:
+	@echo "Input commit message: "
+	@read msg; \
+	git commit -m "$$msg"
+
+
+push:
+	git push origin main
