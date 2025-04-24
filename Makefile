@@ -1,3 +1,6 @@
+start:
+	python3 main.py
+
 extract:
 	  pybabel extract --input-dirs=. -o locales/messages.pot
 
@@ -19,3 +22,4 @@ push:
 	@read msg; \
 	git commit -m "$$msg"
 	git push origin main
+

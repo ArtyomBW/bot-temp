@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-02-22 16:44+0500\n"
+"POT-Creation-Date: 2025-04-24 19:49+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgid "🎬 Penguin"
 msgstr ""
 
 #: bot/handler/action_handler.py:36 bot/handler/comedy_handler.py:12
-#: bot/handler/drama_handler.py:12 bot/handler/main_handler.py:32
+#: bot/handler/drama_handler.py:12
 msgid "⬅️ Back"
 msgstr ""
 
@@ -58,71 +58,48 @@ msgstr ""
 msgid "🎬 Titanic"
 msgstr ""
 
-#: bot/handler/main_handler.py:19 bot/handler/main_handler.py:66
-msgid "🎥 Movies Section"
+#: bot/handler/main_handler.py:17 bot/handler/main_handler.py:41
+#: bot/handler/main_handler.py:49 bot/handler/main_handler.py:55
+msgid "🍽 Restoran menyusi"
 msgstr ""
 
-#: bot/handler/main_handler.py:20 bot/handler/main_handler.py:67
-msgid "📞 Contact center"
+#: bot/handler/main_handler.py:18 bot/handler/main_handler.py:41
+msgid "📞 Biz bilan aloqa"
 msgstr ""
 
-#: bot/handler/main_handler.py:21 bot/handler/main_handler.py:68
-msgid "🇺🇿🇬🇧🇷🇺 Language"
+#: bot/handler/main_handler.py:19
+msgid "🇺🇿🇬🇧 Til tanlash"
 msgstr ""
 
-#: bot/handler/main_handler.py:23
-msgid ""
-"🏠 Main menu: \n"
-"BW"
+#: bot/handler/main_handler.py:21 bot/handler/main_handler.py:43
+msgid "🏠 Asosiy menyu"
 msgstr ""
 
-#: bot/handler/main_handler.py:29
-msgid "🎭 Drama"
-msgstr ""
-
-#: bot/handler/main_handler.py:30
-msgid "😂 Comedy"
-msgstr ""
-
-#: bot/handler/main_handler.py:31
-msgid "🎬 Action"
-msgstr ""
-
-#: bot/handler/main_handler.py:35
-msgid ""
-"🎥 Movies section: \n"
-"BW"
-msgstr ""
-
-#: bot/handler/main_handler.py:41
+#: bot/handler/main_handler.py:26
 msgid "🇺🇿 Uzbek"
 msgstr ""
 
-#: bot/handler/main_handler.py:41
+#: bot/handler/main_handler.py:26
 msgid "🇬🇧 English"
 msgstr ""
 
-#: bot/handler/main_handler.py:41
-msgid "🇷🇺 Russia"
+#: bot/handler/main_handler.py:26 bot/handler/main_handler.py:52
+msgid "⬅️ Orqaga"
+msgstr ""
+
+#: bot/handler/main_handler.py:29
+msgid "🇺🇿🇬🇧 Tilni tanglang"
 msgstr ""
 
 #: bot/handler/main_handler.py:41
-msgid "⬅️  Back"
+msgid "🇺🇿🇬🇧🇷🇺 Language"
 msgstr ""
 
-#: bot/handler/main_handler.py:44
-msgid ""
-"Choose language: \n"
-"BW"
+#: bot/handler/main_handler.py:50
+msgid "🥗 Salatlar"
 msgstr ""
 
-#: bot/handler/main_handler.py:58
-msgid "Error!"
-msgstr ""
-
-#: bot/handler/main_handler.py:71
-msgid ""
-"🏠 Main menu : \n"
-"BW"
+#: bot/handler/main_handler.py:51
+msgid "🍕 Fas-fud"
 msgstr ""
 
